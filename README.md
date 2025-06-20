@@ -107,7 +107,7 @@ Aqui estan las tecnologias y herramientas que domino y que mas uso:
         </tr>
       </table>
     </td>
-  </tr>s
+  </tr>
   <tr>
     <td width="20%" valign="top"><strong>Otras tecnologías</strong></td>
     <td width="80%" valign="top">
@@ -130,7 +130,6 @@ Aqui estan las tecnologias y herramientas que domino y que mas uso:
     </td>
   </tr>
 </table>
----
 
 ### 📊 GitHub Stats
 
